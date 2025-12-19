@@ -6,3 +6,4 @@ In /src, you'll find:
 - a notebook that deals with Lagrange interpolation
 - a notebook that has three methods of integrating functions in one dimension (that is $f:\mathbb{R}\to \mathbb{R}.$)
 - a notebook that has to difference approaches to a trapezoidal integrator in two dimensions (that is, $f:\mathbb{R}^2 \to \mathbb{R}.$)
+- a notebook with a general purpose explicit Runge-Kutta and multistep method solver
